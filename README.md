@@ -6,9 +6,9 @@
 
 效果图如下
 
-![]("xxxx")
+![晴山蓝无字]("https://github.com/lyflipped/PureImage/blob/master/static/notitle/%E6%99%B4%E5%B1%B1%E8%93%9D.jpg?raw=true")
 
-![]("xxxx")
+![晴山蓝有字]("https://github.com/lyflipped/PureImage/blob/master/static/withtitle/%E6%99%B4%E5%B1%B1%E8%93%9D.jpg?raw=true")
 ## 什么是中国色？
 
 厌倦了壁纸的画画绿绿，决定回归纯色。
